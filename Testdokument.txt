@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Irgendetwas
+=======
+<<<<<<< HEAD
+hallo
+=======
+Das Wetter ist zum kotzen
+>>>>>>> 526b5cade33e389a9d95f728d12ad435f29989d3
+>>>>>>> cfa4014ad941f24fe6aa384c773fab5af897743f
