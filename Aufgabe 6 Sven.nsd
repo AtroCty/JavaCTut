@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root text="&#34;Aufgabe 6&#34;" comment="&#34;&#34;" color="ffffff" type="program" style="abbr">
+	<children>
+		<instruction text="&#34;lese Koordinaten aus Text Datei punkte.txt&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+		<instruction text="&#34;berechne Delta x und Delta y &#34;,&#34;delta x= x2-x1 ; delta y= y2-y1 &#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+		<instruction text="&#34;berechne Fläche des Rechtecks A=delta x * delta y&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+		<instruction text="&#34;gebe Fläche des Rechtecks aus&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+		<alternative text="&#34;if (x1&#60; x &#60;x2)&amp;&amp;(y1 &#60; y &#60;y2)&#34;" comment="&#34;&#34;" color="ffffff">
+			<qTrue>
+				<instruction text="&#34;Gebe aus Punkt P liegt innerhalb des Rechtecks&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+			</qTrue>
+			<qFalse>
+				<instruction text="&#34;Gebe aus Punkt P liegt nicht innerhalb des Rechtecks&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+			</qFalse>
+		</alternative>
+	</children>
+</root>
